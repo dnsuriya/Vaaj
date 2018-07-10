@@ -1,6 +1,6 @@
 # Vaaj Fitness Center 
 
-Created this as a web development project at Edenz College. This client is from Sri Lanka and the compan is Vaaj Fitness Center 
+Created this as a web development project at Edenz College. This client is from Sri Lanka and the company is Vaaj Fitness Center 
 
 Please Visit the site:
 
